@@ -1,6 +1,13 @@
 # Note App
 this is a note app created based on the hackfest competition
 
+halo
+hjalo 
+haloo
+
+
+
+
 ## Our Teams
 - Andana Farras Pramudita & Syarif Ramdani Lubis (Hacker)
 - Wicaksono Hanif Supriyanto (Hustler)
